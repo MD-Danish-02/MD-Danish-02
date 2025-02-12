@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Danish Alam</h1>
 <h3 align="center">Passionate About AI, Data Science & App Development 💡</h3>
-
+<img src="https://img.freepik.com/premium-photo/programmer-working-computer-office-programmer-work-illustration-flat-style-generative-ai_804788-60469.jpg" alt=""
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-danish-bb922324b](https://www.linkedin.com/in/md-danish-bb922324b)
 
 - 💬 Ask me about **python, java, SQL, DSA, AI, ML**
