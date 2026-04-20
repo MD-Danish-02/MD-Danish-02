@@ -32,7 +32,7 @@ Voice-based AI system that listens, thinks, and performs tasks automatically.
 
 ### 📫 Reach Me
 - 📧 mddanishniet@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/md-danish-bb922324b  
+- 🔗 LinkedIn: [Md Danish Alam](https://www.linkedin.com/in/md-danish-bb922324b)
 
 ---
 
